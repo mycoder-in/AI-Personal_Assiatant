@@ -23,6 +23,7 @@ Without Delay! Let’s start building our own J.A.R.V.I.S. AI Chatbot,
 Before that if you want this you need this,
 
 Python +Microphone🎙+Internet
+
 Starting VS Code,
 
 I am going to use the VS Code IDE . For python, Pycharm also better option .Feel free to use any other IDE you are comfortable with. Start a new project and make a file called jarvis ai real.py.
