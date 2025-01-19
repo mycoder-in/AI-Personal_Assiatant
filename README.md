@@ -48,8 +48,3 @@ pip install pyttsx3 — ->pyttsx3 is a text-to-speech conversion library in Pyth
 
 
 
-sapi5
-
-nsss
-
-espeak
