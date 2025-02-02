@@ -1,4 +1,4 @@
-# AI-Assiatant
+# AI-Peronal Assiatant
 
 **Hello Coders**👋,
 
